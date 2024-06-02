@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\APBD_Zadanie_9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\APBD_Zadanie_9\\APBD_Zadanie_6\\APBD_Zadanie_6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:APBD_Zadanie_6\\APBD_Zadanie_6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\APBD_Zadanie_9\\APBD_Zadanie_6\\APBD_Zadanie_6\\DTO\\AddPrescriptionDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:APBD_Zadanie_6\\APBD_Zadanie_6\\DTO\\AddPrescriptionDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\APBD_Zadanie_9\\APBD_Zadanie_6\\APBD_Zadanie_6\\Controllers\\PrescriptionController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:APBD_Zadanie_6\\APBD_Zadanie_6\\Controllers\\PrescriptionController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\APBD_Zadanie_9\\APBD_Zadanie_6\\APBD_Zadanie_6\\Controllers\\PatientController.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:APBD_Zadanie_6\\APBD_Zadanie_6\\Controllers\\PatientController.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\APBD_Zadanie_9\\APBD_Zadanie_6\\APBD_Zadanie_6\\Configuration\\PrescriptionMedicamentConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:APBD_Zadanie_6\\APBD_Zadanie_6\\Configuration\\PrescriptionMedicamentConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\APBD_Zadanie_9\\APBD_Zadanie_6\\APBD_Zadanie_6\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "APBD_Zadanie_6\\APBD_Zadanie_6\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\APBD_Zadanie_9\\APBD_Zadanie_6\\APBD_Zadanie_6\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "APBD_Zadanie_6\\APBD_Zadanie_6\\Controllers\\PatientController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAADwv0EAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T09:47:46.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrescriptionController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\APBD_Zadanie_9\\APBD_Zadanie_6\\APBD_Zadanie_6\\Controllers\\PrescriptionController.cs",
+              "RelativeDocumentMoniker": "APBD_Zadanie_6\\APBD_Zadanie_6\\Controllers\\PrescriptionController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\APBD_Zadanie_9\\APBD_Zadanie_6\\APBD_Zadanie_6\\Controllers\\PrescriptionController.cs",
+              "RelativeToolTip": "APBD_Zadanie_6\\APBD_Zadanie_6\\Controllers\\PrescriptionController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAADwv1gAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T09:47:28.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddPrescriptionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\APBD_Zadanie_9\\APBD_Zadanie_6\\APBD_Zadanie_6\\DTO\\AddPrescriptionDTO.cs",
+              "RelativeDocumentMoniker": "APBD_Zadanie_6\\APBD_Zadanie_6\\DTO\\AddPrescriptionDTO.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\APBD_Zadanie_9\\APBD_Zadanie_6\\APBD_Zadanie_6\\DTO\\AddPrescriptionDTO.cs",
+              "RelativeToolTip": "APBD_Zadanie_6\\APBD_Zadanie_6\\DTO\\AddPrescriptionDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T09:46:17.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\APBD_Zadanie_9\\APBD_Zadanie_6\\APBD_Zadanie_6\\appsettings.json",
+              "RelativeDocumentMoniker": "APBD_Zadanie_6\\APBD_Zadanie_6\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\APBD_Zadanie_9\\APBD_Zadanie_6\\APBD_Zadanie_6\\appsettings.json",
+              "RelativeToolTip": "APBD_Zadanie_6\\APBD_Zadanie_6\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-02T09:45:09.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrescriptionMedicamentConfig.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\APBD_Zadanie_9\\APBD_Zadanie_6\\APBD_Zadanie_6\\Configuration\\PrescriptionMedicamentConfig.cs",
+              "RelativeDocumentMoniker": "APBD_Zadanie_6\\APBD_Zadanie_6\\Configuration\\PrescriptionMedicamentConfig.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\APBD_Zadanie_9\\APBD_Zadanie_6\\APBD_Zadanie_6\\Configuration\\PrescriptionMedicamentConfig.cs",
+              "RelativeToolTip": "APBD_Zadanie_6\\APBD_Zadanie_6\\Configuration\\PrescriptionMedicamentConfig.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T09:27:41.503Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
